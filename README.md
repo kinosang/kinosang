@@ -2,6 +2,9 @@
 
 [<img src="http://github-readme-streak-stats.herokuapp.com?user=kinosang&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="846">](https://git.io/streak-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [<img src="https://metrics.lecoq.io/kinosang?template=classic&config.timezone=UTC" alt="Metrics" width="846">](https://git.io/streak-stats)
 
 <p align="center">
