@@ -3,6 +3,16 @@
 [<img src="http://github-readme-streak-stats.herokuapp.com?user=kinosang&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="846">](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+
+```text
+sh                8 hrs 1 min     ██████████▒░░░░░░░░░░░░░░   41.86 %
+C#                6 hrs 36 mins   ████████▓░░░░░░░░░░░░░░░░   34.43 %
+Rust              1 hr 46 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+Protocol Buffer   1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+TOML              31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+XML               26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+```
+
 <!--END_SECTION:waka-->
 
 [<img src="https://metrics.lecoq.io/kinosang?template=classic&config.timezone=UTC" alt="Metrics" width="846">](https://git.io/streak-stats)
