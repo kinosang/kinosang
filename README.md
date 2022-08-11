@@ -1,5 +1,7 @@
 [<img src="https://metrics.lecoq.io/kinosang?template=classic&config.timezone=UTC" alt="Metrics" width="846">](https://git.io/streak-stats)
 
+[<img src="http://github-readme-streak-stats.herokuapp.com?user=kinosang&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="846">](https://git.io/streak-stats)
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -12,8 +14,6 @@ XML               26 mins         ▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-[<img src="http://github-readme-streak-stats.herokuapp.com?user=kinosang&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="846">](https://git.io/streak-stats)
 
 [<img src="https://activity-graph.herokuapp.com/graph?username=kinosang" alt="Ashutosh's github activity graph" width="846">](https://github.com/kinosang/github-readme-activity-graph)
 
