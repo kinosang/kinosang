@@ -18,7 +18,7 @@ XML               26 mins         ▓░░░░░░░░░░░░░░�
 [<img src="https://activity-graph.herokuapp.com/graph?username=kinosang" alt="Ashutosh's github activity graph" width="846">](https://github.com/kinosang/github-readme-activity-graph)
 
 <p align="center">
-  <a href="https://paypal.me/chinochang">
+  <a href="https://paypal.me/7IN0">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
   </a>
   <a href="https://www.patreon.com/kinosang">
