@@ -5,12 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-C#                        7 hrs 39 mins   ████████▒░░░░░░░░░░░░░░░░   33.50 %
-TypeScript                4 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
-Python                    3 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
-Protocol Buffer           2 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-SCSS                      1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-Other                     51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+C#                        16 hrs 27 mins  ████████████▒░░░░░░░░░░░░   48.88 %
+TypeScript                4 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
+Protocol Buffer           3 hrs 42 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+Other                     2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
 ```
 
 <!--END_SECTION:waka-->
