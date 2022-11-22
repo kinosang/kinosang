@@ -5,10 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-C#                        16 hrs 27 mins  ████████████▒░░░░░░░░░░░░   48.88 %
-TypeScript                4 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-Protocol Buffer           3 hrs 42 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-Other                     2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+C#                        18 hrs 18 mins  ████████████░░░░░░░░░░░░░   48.00 %
+TypeScript                5 hrs 33 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
+Protocol Buffer           4 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+Other                     3 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
 ```
 
 <!--END_SECTION:waka-->
