@@ -5,9 +5,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-C#                        20 hrs 14 mins  ██████████████░░░░░░░░░░░   55.51 %
-Protocol Buffer           4 hrs 48 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
-Other                     3 hrs 56 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+C#                        11 hrs 35 mins  ████████████░░░░░░░░░░░░░   47.91 %
+Protocol Buffer           3 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
+Rust                      3 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
+Other                     2 hrs 35 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
 ```
 
 <!--END_SECTION:waka-->
