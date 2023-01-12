@@ -5,10 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python                    24 mins         █████████░░░░░░░░░░░░░░░░   36.56 %
-sh                        16 mins         ██████░░░░░░░░░░░░░░░░░░░   23.84 %
-C#                        14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
-Other                     4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
