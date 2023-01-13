@@ -10,7 +10,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-[<img src="https://activity-graph.herokuapp.com/graph?username=kinosang" alt="Ashutosh's github activity graph" width="846">](https://github.com/kinosang/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=kinosang" alt="Ashutosh's github activity graph" width="846">
 
 <p align="center">
   <a href="https://paypal.me/7IN0">
