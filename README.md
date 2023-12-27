@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#                        2 hrs 43 mins   ███████████████░░░░░░░░░░   60.11 %
-Project file properties   25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
-XML                       21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-Csproj                    15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Markdown                  11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+C#                        6 hrs 27 mins   ██████████████▒░░░░░░░░░░   57.58 %
+Project file properties   1 hr 40 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
+XML                       42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Csproj                    41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+MsBuild targets file      28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
 ```
 
 <!--END_SECTION:waka-->
