@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                     26 hrs 37 mins  ██████████████████░░░░░░░   72.25 %
-C#                        5 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
-TypeScript                1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-Solidity                  1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-Project file properties   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Other                     26 hrs 1 min    ████████████████░░░░░░░░░   64.45 %
+C#                        9 hrs 1 min     █████▓░░░░░░░░░░░░░░░░░░░   22.34 %
+TypeScript                1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Solidity                  1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Project file properties   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
