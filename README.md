@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#                        37 hrs 42 mins  ████████████████▓░░░░░░░░   67.02 %
-Other                     15 hrs 17 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
-Markdown                  51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Project file properties   38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Csproj                    37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+C#                        38 hrs          ███████████████░░░░░░░░░░   60.37 %
+Other                     19 hrs 32 mins  ███████▓░░░░░░░░░░░░░░░░░   31.04 %
+TypeScript                1 hr 46 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Markdown                  51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Project file properties   39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
