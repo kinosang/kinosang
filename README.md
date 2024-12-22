@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      25 hrs 11 mins  ████████████████████▒░░░░   80.81 %
-C#                         1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Windows Registry Entries   1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-Binary                     1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-XAML                       49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Other                      30 hrs 14 mins  ████████████████████▓░░░░   82.31 %
+C#                         2 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Windows Registry Entries   1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Binary                     1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+XAML                       56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
 ```
 
 <!--END_SECTION:waka-->
