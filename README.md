@@ -1,6 +1,4 @@
-[<img src="https://metrics.lecoq.io/kinosang?template=classic&config.timezone=UTC" alt="Metrics" width="846">](https://git.io/streak-stats)
-
-[<img src="http://github-readme-streak-stats.herokuapp.com?user=kinosang&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="846">](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kinosang&card_width=846)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
 
@@ -14,7 +12,7 @@ XML                       9 mins          ░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=kinosang" alt="Ashutosh's github activity graph" width="846">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kinosang" alt="Ashutosh's github activity graph" width="846">
 
 <p align="center">
   <a href="https://paypal.me/7IN0">
