@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      40 hrs 48 mins  ██████████████████████▓░░   90.73 %
-Markdown                   1 hr 58 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Windows Registry Entries   1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-YAML                       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-C                          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Other                      37 hrs 13 mins  ██████████████████████░░░   87.41 %
+Markdown                   3 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+Windows Registry Entries   1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+YAML                       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Makefile                   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
