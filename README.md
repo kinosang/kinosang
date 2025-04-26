@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                      36 hrs 28 mins  ████████████████████▓░░░░   82.81 %
-Markdown                   3 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
-PHP                        1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Windows Registry Entries   1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-C#                         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Other                      38 hrs 17 mins  ████████████████████░░░░░   80.03 %
+Markdown                   3 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+PHP                        1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Windows Registry Entries   57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+KiCad Schematic            48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
