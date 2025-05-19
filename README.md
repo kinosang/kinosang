@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                     31 hrs 56 mins  ████████████████████▓░░░░   82.25 %
-C#                        4 hrs 47 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
-JavaScript                48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Markdown                  24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Project file properties   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Other                     34 hrs 34 mins  ███████████████████▓░░░░░   78.82 %
+C#                        6 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+Markdown                  1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+JavaScript                48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Project file properties   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
