@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other                     35 hrs 6 mins   █████████████████████░░░░   84.55 %
-sh                        4 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
-Markdown                  58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-Project file properties   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-YAML                      8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Other                     39 hrs 12 mins  █████████████████████▒░░░   85.77 %
+sh                        3 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+Markdown                  1 hr 52 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+Project file properties   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+YAML                      26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
